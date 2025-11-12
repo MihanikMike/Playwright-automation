@@ -1,0 +1,18 @@
+Next Week:
+    Module 4: Running playwright with Jenkins (3 hours)
+    Manual testing assignment (14 SEP user stories)
+
+
+Next Next Weel: Project Implementation Week
+    Module 5: Playwright with Cucumber (BDD Framework) (3 hours)
+
+    Work on the automation of SEP User stories 
+    Playwright TDD feamework 
+
+
+Next Next Next Week:
+    Module 6: Playwright with TypeScript
+        TypeScript programming
+        Setting Playwright with TypeScript
+        Typescript version of Playwright BDD Framework
+        Typescript version of Playwright TDD Framework        

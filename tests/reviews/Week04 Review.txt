@@ -1,0 +1,47 @@
+Week04:
+	
+	Topics:
+		Jenkins
+			Job configurations
+			credentials
+			environment variables
+
+		Playwright Fixtures (browser, context,  request, baseURL)
+
+
+Next Week: Project Implemnetation Week (SEP Project)
+
+
+Jenkins assignment: (After the project implementation week)
+
+	1. sep-smoke-Job:
+			schedule it to run at 8 AM every day from Monday to Friday ONLY
+
+     2. sep-reg-job:
+			schedule it to run at 7 PM evryday
+
+
+    HEADLESS EXECUTION
+
+
+
+API Testing Automation tools:
+    RestAssured
+    RestSharp
+    Httpx
+    requests
+    ...
+
+=================================
+
+TASK: Send get request and verify the status code, conten-type and Json body
+    step1: The baseURL is set to http://example.com/
+    step2: user sends GET request  to /exampleEndPoint
+    step3: verify status code is 200
+    step4: verify content type is application/json
+    step4: verify the total json object is 1
+    step5: verify firstName is Josh
+    step5: verify lastName is Jeremy
+
+=================================
+

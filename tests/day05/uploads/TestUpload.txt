@@ -1,0 +1,24 @@
+Hhahaha
+
+
+Test Case: Verify that all thr links under the ul tag are displayed and enabled
+    step 1: Open chrome browser
+    step 2: Navigate to "https://practice.cydeo.com"
+    step 3: The url should contain "practice.cydeo"
+    step 4: thr title should be "Practice"
+    step 5: All the links under the ul HTML tag are visible and clickable.
+
+Here is the xpath locator for lacating thr links elements that are under the ul tag:
+//ul[@class='list-group']//a 
+
+===============================================================================
+
+Test Case: Search CYDEO on google
+    step1: Open chrome browser.
+    step2: Navigate to "https://www.google.com/".
+    step3: The title should be "Google".
+    step4: Enter "CYDEO" in the searchcox and press enter key
+    step5: Page title contains "CYDEO".
+
+Here is the xpath locator for lacating the search box on google page:
+//textarea[@class='gLFyf']
